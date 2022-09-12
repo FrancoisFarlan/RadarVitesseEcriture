@@ -1,0 +1,15 @@
+span {
+    font-weight: bold;
+}
+
+.rapide {
+    color : green;
+}
+
+.intermediaire {
+    color : orange;
+}
+
+.lent {
+    color : red;
+}
